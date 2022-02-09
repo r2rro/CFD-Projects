@@ -1,4 +1,4 @@
-//Arthur Rostami- Final project - MECH 510
+//Arthur Rostami
 //
 //This Program solves 2-dimensional Navier Stokes equation using Implicit Euler as time advance schemes
 //and Second order centered scheme for space discretization
