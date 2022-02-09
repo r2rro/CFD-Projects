@@ -1,6 +1,6 @@
 ! Alternative implicit FTSC FDm Solver using TDmA algorithm for parabolic 2D heat transfer equation
 !-------------------------------------------------------------
-!------------------By Arthur Rostami 96742028-----------------
+!------------------By Arthur Rostami--------------------------
 !-------------------------------------------------------------
 
 program First_CFD_Project_implicit
