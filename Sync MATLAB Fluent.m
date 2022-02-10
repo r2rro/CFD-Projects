@@ -310,7 +310,7 @@ for a1=1:3                              %Rayleigh/Radius
                     fprintf(jou,'\r\nexit');                    
                     fclose(jou);
                     %% Run Fluent with journal
-                    !"C:\Program Files\ANSYS Inc\---\fluent.exe"  2ddp -wait -i "C:\Users\Art\Desktop\Paper\finalruns\j.jou"
+                    !"C:\Program Files\ANSYS Inc\---\fluent.exe"  2ddp -wait -i "C:\---\j.jou"
                     %% Saving results
                     result(a1,a2,a3,a4,a5)= reportdigit('C:\Users\---\textresult'); %Total wall heat flux: getting the number from text report
                     Nusselt(a1,a2,a3,a4,a5)=result(a1,a2,a3,a4,a5)/(kf*(Th-Tc));
