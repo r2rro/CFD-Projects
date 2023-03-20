@@ -1,7 +1,4 @@
         ! Implicit FTSC FDM Solver using TDMA algorithm and ADI method for parabolic 2D heat transfer equation
-        !-------------------------------------------------------------
-        !------------------By Arthur Rostami -------------------------
-        !-------------------------------------------------------------
 
 program CFD_FIRST_PROJECT_IMPLICIT
     implicit none
