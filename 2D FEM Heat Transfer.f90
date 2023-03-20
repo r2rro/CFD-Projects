@@ -1,5 +1,4 @@
 ! Implicit FVM solver for parabolic 2D heat transfer equation
-! By Arthur Rostami
 
 program CFD_SECOND_PROJECT_IMPLICIT
     implicit none
